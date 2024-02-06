@@ -1,8 +1,4 @@
-- 👋 Hi, I’m paowa\Daniil
-- 👀 I’m interested in anime lol
-- 🌱 I’m currently learning HTML, css, JavaScript
-- 📫 How to reach me: telegram @Paowa_xd
-- ⚡ Fun fact: ...
+e
 
 
 <!---
